@@ -7,7 +7,9 @@ y probar la funcionalidad de los threads mediante la descarga de una imagen a tr
 ##Funcionalidades 
 
 -Mostrar la ubicación actual en Google Maps.
+
 -Mostrar ubicaciones fijas en Google Maps.
+
 -Mostrar el uso de threads al descargar una imagen.
 
 ## Instrucciones de ejecución
