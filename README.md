@@ -12,6 +12,9 @@ y probar la funcionalidad de los threads mediante la descarga de una imagen a tr
 
 ## Instrucciones de ejecución
 1-Clona el repositorio: "https://github.com/BrianG-R/GPSMapApp.git".
+
 2-Abre el proyecto en Android Studio.
+
 3-Añade tu API Key de Google Maps en "res/values/google_maps_api.xml"
+
 4-Ejecuta la aplicacion en un dispositivo o emulador Android.
