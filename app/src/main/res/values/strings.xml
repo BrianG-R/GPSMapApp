@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GPSMapApp</string>
+    <string name="AIzaSyDa_IDL2cW2nfeypz4x7qVIHI_JmbhciF0">YOUR_API_KEY</string>
 </resources>
