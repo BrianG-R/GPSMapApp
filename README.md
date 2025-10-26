@@ -12,6 +12,9 @@ y probar la funcionalidad de los threads mediante la descarga de una imagen a tr
 
 -Mostrar el uso de threads al descargar una imagen.
 
+Todos los informes y reportes técnicos se encuentran en la carpeta:
+[`/documentacion_pruebas`](./Pruebas_mobsf)
+
 ## Documentación  
 
 - [🧱 Vulnerabilidades](vulnerabilities.md)  
