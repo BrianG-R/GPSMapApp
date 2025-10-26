@@ -21,9 +21,9 @@ Todos los informes y reportes técnicos se encuentran en la carpeta:
 
 
 ### 📑 Archivos incluidos:
-- [⬇️ Descargar Pruebas Estáticas – MobSF](https://github.com/BrianG-R/GPSMapApp/raw/main/Pruebas_mobsf/Pruebas_Estaticas_GPSMapApp.pdf)
-- [⬇️ Descargar Pruebas Dinámicas – MobSF](https://github.com/BrianG-R/GPSMapApp/raw/main/Pruebas_mobsf/Pruebas_Dinamicas_GPSMapApp.pdf)
-- [⬇️ Descargar Resumen Técnico Consolidado](https://github.com/BrianG-R/GPSMapApp/raw/main/Pruebas_mobsf/Resumen_Tecnico_Pruebas_GPSMapApp.pdf)
+- [📘 Ver Pruebas Estáticas – MobSF](https://github.com/BrianG-R/GPSMapApp/blob/main/Pruebas_mobsf/Pruebas_Estaticas_GPSMapApp.pdf)
+- [📗 Ver Pruebas Dinámicas – MobSF](https://github.com/BrianG-R/GPSMapApp/blob/main/Pruebas_mobsf/Pruebas_Dinamicas_GPSMapApp.pdf)
+- [📙 Ver Resumen Técnico Consolidado](https://github.com/BrianG-R/GPSMapApp/blob/main/Pruebas_mobsf/Resumen_Tecnico_Pruebas_GPSMapApp.pdf)
 
 
 ---
