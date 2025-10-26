@@ -19,10 +19,12 @@ Esta aplicación muestra un menú con botones que permiten acceder a los servici
 Todos los informes y reportes técnicos se encuentran en la carpeta:  
 [`/documentacion_pruebas`](./Pruebas_mobsf)
 
-### Archivos incluidos:
-- 📘 [Pruebas Estáticas – MobSF](./Pruebas_mobsf/Pruebas_Estaticas_GPSMapApp.pdf)  
-- 📗 [Pruebas Dinámicas – MobSF](./Pruebas_mobsf/Pruebas_Dinamicas_GPSMapApp.pdf)  
-- 📙 [Resumen Técnico Consolidado](./Pruebas_mobsf/Resumen_Tecnico_Pruebas_GPSMapApp.pdf)  
+
+### 📑 Archivos incluidos:
+- [⬇️ Descargar Pruebas Estáticas – MobSF](https://github.com/BrianG-R/GPSMapApp/raw/main/Pruebas_mobsf/Pruebas_Estaticas_GPSMapApp.pdf)
+- [⬇️ Descargar Pruebas Dinámicas – MobSF](https://github.com/BrianG-R/GPSMapApp/raw/main/Pruebas_mobsf/Pruebas_Dinamicas_GPSMapApp.pdf)
+- [⬇️ Descargar Resumen Técnico Consolidado](https://github.com/BrianG-R/GPSMapApp/raw/main/Pruebas_mobsf/Resumen_Tecnico_Pruebas_GPSMapApp.pdf)
+
 
 ---
 
