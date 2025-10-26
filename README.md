@@ -1,32 +1,42 @@
-# GPSMapApp
-Implementación de servicios Google maps y uso de threads.
+# 🗺️ GPSMapApp
 
-Esta aplicacion muestra un menu con botones los cuales nos permite tener acceso a los servicios de Google Maps
-y probar la funcionalidad de los threads mediante la descarga de una imagen a travez de un link pre definido en el codigo.
+Aplicación Android que implementa **servicios de Google Maps** y el uso de **threads (hilos)** para ejecutar tareas en segundo plano.
 
-##Funcionalidades 
+Esta aplicación muestra un menú con botones que permiten acceder a los servicios de Google Maps y probar la funcionalidad de los threads mediante la descarga de una imagen desde un enlace predefinido en el código.
 
--Mostrar la ubicación actual en Google Maps.
+---
 
--Mostrar ubicaciones fijas en Google Maps.
+## ⚙️ Funcionalidades
 
--Mostrar el uso de threads al descargar una imagen.
+- 📍 Mostrar la **ubicación actual** en Google Maps.  
+- 🗺️ Mostrar **ubicaciones fijas** en el mapa.  
+- 🧵 Demostrar el uso de **threads** al descargar una imagen desde internet.  
 
-Todos los informes y reportes técnicos se encuentran en la carpeta:
+---
+
+## 🧾 Informes y Reportes Técnicos
+
+Todos los informes y reportes técnicos se encuentran en la carpeta:  
 [`/documentacion_pruebas`](./Pruebas_mobsf)
 
-## Documentación  
+### Archivos incluidos:
+- 📘 [Pruebas Estáticas – MobSF](./Pruebas_mobsf/Pruebas_Estaticas_GPSMapApp.pdf)  
+- 📗 [Pruebas Dinámicas – MobSF](./Pruebas_mobsf/Pruebas_Dinamicas_GPSMapApp.pdf)  
+- 📙 [Resumen Técnico Consolidado](./Pruebas_mobsf/Resumen_Tecnico_Pruebas_GPSMapApp.pdf)  
+
+---
+
+## 🧩 Documentación de Seguridad
 
 - [🧱 Vulnerabilidades](vulnerabilities.md)  
 - [🧩 Best Practices](best_practices.md)  
 - [🧠 Security Tips](security_tips.md)  
 - [🚀 Security Improvement Program](security_improvement_program.md)  
 
-## Instrucciones de ejecución
-1-Clona el repositorio: "https://github.com/BrianG-R/GPSMapApp.git".
+---
 
-2-Abre el proyecto en Android Studio.
+## 🚀 Instrucciones de Ejecución
 
-3-Añade tu API Key de Google Maps en "res/values/google_maps_api.xml"
-
-4-Ejecuta la aplicacion en un dispositivo o emulador Android.
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/BrianG-R/GPSMapApp.git
