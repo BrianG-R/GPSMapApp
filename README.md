@@ -12,6 +12,13 @@ y probar la funcionalidad de los threads mediante la descarga de una imagen a tr
 
 -Mostrar el uso de threads al descargar una imagen.
 
+## Documentación  
+
+- [🧱 Vulnerabilidades](vulnerabilities.md)  
+- [🧩 Best Practices](best_practices.md)  
+- [🧠 Security Tips](security_tips.md)  
+- [🚀 Security Improvement Program](security_improvement_program.md)  
+
 ## Instrucciones de ejecución
 1-Clona el repositorio: "https://github.com/BrianG-R/GPSMapApp.git".
 
